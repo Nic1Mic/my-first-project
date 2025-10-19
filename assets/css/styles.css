@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    background-image: url("../images/01-02-02_background-img.jpg");
+    font-weight: bold;
+
+
+}
+
+h2 {
+    color: orangered;
+
+}
+
+.text-center {
+    text-align: center;
+}
